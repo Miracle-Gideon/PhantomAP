@@ -6,7 +6,7 @@
   |  __/| | | | (_| | |\  | || (_) | | | | | / ___ \|  __/
   |_|   |_| |_|\__,_|_| \_|\__\___/|_| |_| /_/   \_\_|
 </pre>
-<em>Built Miracle Gideon</em>
+<em>Built By Miracle Gideon</em>
 </p>
 
 <p align="center">
