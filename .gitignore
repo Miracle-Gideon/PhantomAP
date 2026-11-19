@@ -1,0 +1,23 @@
+# Compiled binaries — do not push built files
+phantomAP_receiver.exe
+phantomAP_remote
+
+# Log output — personal session data
+phantomAP_logs/
+
+# Go build artifacts
+*.test
+*.out
+vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
